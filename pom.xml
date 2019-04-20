@@ -75,7 +75,9 @@
         </plugins>
     </build>
     <scm>
-        <developerConnection>scm:git:git@github.com:naazvy/pet-clinic.git</developerConnection>
+        <connection>scm:git:git@github.com:naazvy/pet-clinic-project.git</connection>
+        <developerConnection>scm:git:git@github.com:naazvy/pet-clinic-project.git</developerConnection>
+        <url>https://github.com/naazvy/pet-clinic-project.git</url>
       <tag>pet-clinic-project-0.0.2</tag>
   </scm>
 
